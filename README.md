@@ -22,7 +22,7 @@ Focus on the conversation — let the extension handle notes.
 ### 💾 Easy saving and sharing
 Downloadable summaries (PDF / DOC)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Chrome Extension APIs
 - Speech-to-Text Engine (Web Speech API / External API)
