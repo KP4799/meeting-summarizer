@@ -7,19 +7,19 @@ An intelligent Chrome Extension that transcribes online meeting audio in real ti
 ### 🎙 Real-time Audio Transcription
 Captures and converts meeting audio into text as the meeting happens.
 
-🧠 AI-Powered Summarization
+### 🧠 AI-Powered Summarization
 Automatically generates clear and concise summaries of long discussions.
 
-🌍 Multi-Language Translation
+### 🌍 Multi-Language Translation
 Translates summaries into different languages for global accessibility.
 
-🧩 Chrome Extension
+### 🧩 Chrome Extension
 Lightweight, easy-to-use, and works directly in your browser during online meetings.
 
-⏱ Time-Saving & Productivity Boost
+### ⏱ Time-Saving & Productivity Boost
 Focus on the conversation — let the extension handle notes.
 
-💾 Easy saving and sharing
+### 💾 Easy saving and sharing
 Downloadable summaries (PDF / DOC)
 
 🛠️ Tech Stack
