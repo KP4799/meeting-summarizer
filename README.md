@@ -24,11 +24,10 @@ An intelligent Chrome Extension that transcribes online meeting audio in real ti
 
 ## 🛠️ Tech Stack
 
-- Chrome Extension APIs
-- Speech-to-Text Engine (Web Speech API / External API)
-- NLP / AI Models for summarization
-- Translation API (e.g., Google Translate / other)
-- JavaScript, HTML, CSS
+- Speech-to-Text Engine (speech_recognition)
+- NLP Model for summarization (Python)
+- Translation (googletrans)
+- Chrome Extension (JavaScript, HTML, CSS)
 
 ## 🧪 How It Works
 
