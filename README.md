@@ -43,7 +43,7 @@ An intelligent Chrome Extension that transcribes online meeting audio in real ti
 - English
 - Hindi
 - Gujarati
-- Spanish \\
+- Spanish \
 (More languages can be added easily)
 
 ## 📌 Use Cases
